@@ -36,7 +36,7 @@
     
     if($song == 3){
         $stuff [$song] = "<audio controls autoplay>
-                            <source src='/cst336-hw3/music/Initial D　　BOOM BOOM JAPAN.mp3' type='audio/mpeg'>
+                            <source src='/cst336-hw3/music/Initial D BOOM BOOM JAPAN.mp3' type='audio/mpeg'>
                          </audio>";
     }
 ?>

@@ -85,7 +85,7 @@
         
         <?php
             if (isset($car) && isset($box) && isset($touge) && isset($redSuns) && isset($song)) {
-                //echo "<h2>Here are your memes</h2><br>";
+                echo "<h2>Here are your memes</h2><br>";
                 echo "$stuff[$car] $stuff[$box] $stuff[$touge] $stuff[$redSuns] $stuff[$song] </br>";
                 
             }
